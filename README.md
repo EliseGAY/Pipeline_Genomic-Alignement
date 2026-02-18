@@ -19,4 +19,8 @@ sbatch blast.sh
 
 Used to align whole genome, more accurate than BLAT, but less modulable.
 
+##### Circos 
+  to do
 
+##### OrthoFinder
+  to do
